@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bank Information</string>
+    <string name="title_bank_fragment">Bank Information</string>
+    <string name="title_bic_iban_fragment">BIC and IBAN</string>
+    <string name="title_post_code">Post code</string>
+    <string name="editTextSearchBlzHint">Type here your bank routing code</string>
+    <string name="bic">BIC</string>
+    <string name="validate">Validate</string>
+    <string name="iban">IBAN</string>
+</resources>
